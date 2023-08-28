@@ -1,6 +1,6 @@
 ## 👋 Welcome to applications 🚀  
 
-applications README  
+Misc configurations for web applications  
   
   
 ## Author  
